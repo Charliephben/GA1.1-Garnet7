@@ -1,2 +1,2 @@
 
-Function A adds two seperate digits a and b
+Function A adds two seperate digits a and b. \\
