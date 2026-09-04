@@ -1,4 +1,5 @@
 Added function to multiply numbers, format multiply(a,b).  
-Function is basic, should not break.
-print multiply 5,2 should return 10.
-print(multiply(5,2))
+
+The subtraction function takes an input of two variables, 'a' and 'b'. The function will then perform a-b. \
+
+Function A adds two seperate digits a and b. \
